@@ -1,12 +1,11 @@
 :Author: kruto
-:Email: {AuthorEmail}
+:Email: ziyangli_0920@outlook.com
 :Date: 14/11/2021
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: pH Meter
 
-Describe your project
 
 == Step 1: Installation
 Please describe the steps to install this project.
