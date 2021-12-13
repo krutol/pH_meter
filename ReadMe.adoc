@@ -8,13 +8,8 @@
 
 
 == Step 1: Installation
-Please describe the steps to install this project.
 
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
+Download the code and run it during Arduino template.
 
 == Step 2: Assemble the circuit
 
