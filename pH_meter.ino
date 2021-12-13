@@ -13,6 +13,7 @@ int sensorValue = 0;
 unsigned long int avgValue; 
 float b;
 int buf[10],temp;
+// Avoid the Pin conflicts 
 const int rs = 9, en = 8, d4 = 5, d5 = 6, d6 = 3, d7 = 2;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
